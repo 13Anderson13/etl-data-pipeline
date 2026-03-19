@@ -1,0 +1,11 @@
+id_aseguradora,nombre,pais,rating_riesgo,rating_valido
+1,Aseguradora 1,Costa Rica,Alto,True
+2,Aseguradora 2,El Salvador,Bajo,True
+4,Aseguradora 4,Costa Rica,Medio,True
+6,Aseguradora 6,Nan,Medio,True
+7,Aseguradora 7,Guatemala,Alto,True
+8,Aseguradora 8,Panamá,Bajo,True
+9,Aseguradora 9,Nan,Bajo,True
+12,Aseguradora 12,Elsalvador,Bajo,True
+13,Aseguradora 13,Honduras,Alto,True
+15,Aseguradora 15,El Salvador,Alto,True
